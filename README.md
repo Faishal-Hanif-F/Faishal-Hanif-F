@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faishal-Hanif-F
+- 👋 Hi, I’m @Faishal Hanif F.
 - 👀 I’m interested in Android, Ios, and Crossplatform mobile app development
 - 🌱 I’m currently learning Kotlin and Android
 
